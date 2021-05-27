@@ -1,0 +1,12 @@
+{
+  "standard.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "standard.usePackageJson": true,
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
+}
